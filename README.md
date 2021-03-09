@@ -4,7 +4,9 @@ The place for the weather will be asked only at the first run
 
 ## How to use
 It's very simple to use this script:
+
 Open your terminale and write
+
 `$ ./welcome.sh`
 
 ## Donations
