@@ -9,6 +9,8 @@ Open your terminale and write
 
 `$ ./welcome.sh`
 
+**For Mac Os**
+For use this script in macos, download the latest version in releases
 ## Donations
 I am 13 years old and I really like computer science and programming. If you think this script was useful for you, you can support me by donating bitcoins to the following address:
 
